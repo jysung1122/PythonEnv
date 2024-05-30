@@ -26,15 +26,15 @@ Git을 이용한 source control
 
 
 git 에서 복사한 프로젝트 시작하는 방법
-1.0 빈폴더 만들기
-	1.1 git clone <url주소>
-2.0 VSCode 실행하기 
-3.0 터미널 열기 
-4.0 가상환경 만들기 
-5.0 가상환경과 VS코드 연결(Sift+Ctrl+P)
-6.0 터미널 열기 (S⁭hift+Ctrl+~)
-7.0 pip install -r requirements.txt
-8.0 VSCode에서 디버깅 하기(경로등) 
+- 1.0 빈폴더 만들기
+	- 1.1 git clone <url주소>
+- 2.0 VSCode 실행하기 
+- 3.0 터미널 열기 
+- 4.0 가상환경 만들기 
+- 5.0 가상환경과 VS코드 연결(Sift+Ctrl+P)
+- 6.0 터미널 열기 (S⁭hift+Ctrl+~)
+- 7.0 pip install -r requirements.txt
+- 8.0 VSCode에서 디버깅 하기(경로등) 
 
 만드는법
 pip freeze > requirements.txt
